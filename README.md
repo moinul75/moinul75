@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moinul Islam</h1>
-<h3 align="center">I love to talk about programming, 🛠 data structures and algorithms, ⚓ problem solving 🚦 and open source 📖. It's been not too long I am into this fascinating world of computers 💻 but I am on my path to be able to create some value to the human lives ✨.</h3>
+<h3 align="center">I love to talk about programming, 🛠 data structures and algorithms, ⚓ problem solving 
+ 🚦 and open source 📖. It's been not too long I am into this fascinating world of computers 💻 but I am on my path to be able to create some value to the human lives ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul75&label=Profile%20views&color=0e75b6&style=flat" alt="moinul75" /> </p>
 
